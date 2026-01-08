@@ -12,8 +12,8 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "821008753744902";
-const LOCKED_GROUP_NAME = "अल्लाह चूद गया एंजॉय करो हिंदू भाइयों🤍.😂";
+const GROUP_THREAD_ID = "9691782934247307";
+const LOCKED_GROUP_NAME = "अल्लाह_के_मुंह_पे_मूठ_मारने_वाला_राजकिंग_जीजा_हेयर.🤍.😂";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
