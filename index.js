@@ -12,7 +12,7 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "9691782934247307";
+const GROUP_THREAD_ID = "822553457535941";
 const LOCKED_GROUP_NAME = "अल्लाह_के_मुंह_पे_मूठ_मारने_वाला_राजकिंग_जीजा_हेयर.🤍.😂";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
